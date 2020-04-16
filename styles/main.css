@@ -1,0 +1,27 @@
+#main {
+    background:#fffaf0;
+    line-height: 1.6;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+}
+#tittle {
+    text-align: center;
+    }
+#tittle h1{
+    text-align: center;
+    font-size: 40px;
+    height: 40px;
+}
+#img-div {
+    text-align: center;
+    background: #deb887;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#image {
+    box-sizing: border-box;
+    width: 95%;  
+}
+#tribute-link {
+    text-align: center;
+}
