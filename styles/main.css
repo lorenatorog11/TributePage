@@ -21,6 +21,7 @@
 #image {
     box-sizing: border-box;
     width: 95%;  
+    padding-top: 3%;
 }
 #tribute-link {
     text-align: center;
